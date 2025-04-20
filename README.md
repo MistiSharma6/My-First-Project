@@ -6,6 +6,9 @@ To view the website:
 Visit:   https://mistisharma6.github.io/My-First-Project/
 
 
+Note: This website is designed for Windows only. [ First Project :) ]
+
+
 Technologies Used:
 1. HTML
 2. CSS
